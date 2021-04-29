@@ -4,9 +4,18 @@
 
 Contributed by [Xiachong Feng](http://xcfeng.net/), [Libo Qin](http://ir.hit.edu.cn/~lbqin/) 
 
+## Arxiv
+* **Genetic Constrained Graph Variational Autoencoder for COVID-19 Drug Discovery** *Tianyue Cheng, Tianchi Fan, Landi Wang* [[pdf]](https://arxiv.org/abs/2104.11674)
+* **COVID-19 and Big Data: Multi-faceted Analysis for Spatio-temporal Understanding of the Pandemic with Social Media Conversations** *Shayan Fazeli, Davina Zamanzadeh, Anaelia Ovalle, Thu Nguyen, Gilbert Gee, Majid Sarrafzadeh* [[pdf]](https://arxiv.org/abs/2104.10807)
+* **COVID-19 sentiment analysis via deep learning during the rise of novel cases** *Rohitash Chandra, Aswin Krishna* [[pdf]](https://arxiv.org/abs/2104.10662)
+* **Analyzing COVID-19 Tweets with Transformer-based Language Models** *Philip Feldman, Sim Tiwari, Charissa S. L. Cheah, James R. Foulds, Shimei Pan* [[pdf]](https://arxiv.org/abs/2104.10259)
+* **Measuring Shifts in Attitudes Towards COVID-19 Measures in Belgium Using Multilingual BERT** *Kristen Scott, Pieter Delobelle, Bettina Berendt* [[pdf]](https://arxiv.org/abs/2104.09947)
+* *adding......*
+
 ## NAACL21
 * **COVID-19 named entity recognition for Vietnamese** *Thinh Hung Truong, Mai Hoang Dao and Dat Quoc Nguyen* `NAACL21` [[pdf]](https://arxiv.org/abs/2104.03879)
 * **Extracting a Knowledge Base of Mechanisms from COVID-19 Papers** *Tom Hope, Aida Amini, David Wadden, Madeleine van Zuylen, Sravanthi Parasa, Eric Horvitz, Daniel Weld, Roy Schwartz, Hannaneh Hajishirzi* `NAACL21` [[pdf]](https://arxiv.org/abs/2010.03824)
+* **Transformers to Fight the COVID-19 Infodemic** *Lasitha Uyangodage, Tharindu Ranasinghe, Hansi Hettiarachchi* `NAACL21` [[pdf]](https://arxiv.org/abs/2104.12201)
 
 ## AACL20
 * **COVID-19 Knowledge Graph: Accelerating Information Retrieval and Discovery for Scientific Literature** *Colby Wise, Miguel Romero Calvo, Pariminder Bhatia, Vassilis Ioannidis, George Karypus, George Price, Xiang Song, Ryan Brand, Ninad Kulkani* `AACL20` [[pdf]](https://www.aclweb.org/anthology/2020.knlp-1.1/)
