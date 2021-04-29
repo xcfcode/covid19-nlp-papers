@@ -18,7 +18,7 @@ COVID-19 outbreak has become a global pandemic. NLP researchers are fighting the
 - [EACL20](#EACL20)
 - [COLING20](#COLING20)
 - [EMNLP20](#EMNLP20)
-- [Findings of EMNLP20](#Findings of EMNLP20)
+- [Findings of EMNLP20](#Findings-of-EMNLP20)
 - [CCL20](#CCL20)
 
 ## Arxiv
