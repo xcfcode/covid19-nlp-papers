@@ -9,6 +9,18 @@ COVID-19 outbreak has become a global pandemic. NLP researchers are fighting the
 ![https://goodera.com/blog/sustainability/how-companies-can-lead-the-fight-against-the-spread-of-covid-19/](./pic/corona.png)
 *pic from https://goodera.com/blog/sustainability/how-companies-can-lead-the-fight-against-the-spread-of-covid-19/*
 
+## Table of Contents
+
+- [Arxiv](#Arxiv)
+- [NAACL21](#NAACL21)
+- [AACL20](#AACL20)
+- [ACL20](#ACL20)
+- [EACL20](#EACL20)
+- [COLING20](#COLING20)
+- [EMNLP20](#EMNLP20)
+- [Findings of EMNLP20](#Findings of EMNLP20)
+- [CCL20](#CCL20)
+
 ## Arxiv
 * **Genetic Constrained Graph Variational Autoencoder for COVID-19 Drug Discovery** *Tianyue Cheng, Tianchi Fan, Landi Wang* [[pdf]](https://arxiv.org/abs/2104.11674)
 * **COVID-19 and Big Data: Multi-faceted Analysis for Spatio-temporal Understanding of the Pandemic with Social Media Conversations** *Shayan Fazeli, Davina Zamanzadeh, Anaelia Ovalle, Thu Nguyen, Gilbert Gee, Majid Sarrafzadeh* [[pdf]](https://arxiv.org/abs/2104.10807)
