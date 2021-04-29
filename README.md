@@ -1,4 +1,4 @@
-# 
+# COVID-19 Related NLP Papers
 
 
 * **COVID-19 Knowledge Graph: Accelerating Information Retrieval and Discovery for Scientific Literature** *Colby Wise, Miguel Romero Calvo, Pariminder Bhatia, Vassilis Ioannidis, George Karypus, George Price, Xiang Song, Ryan Brand, Ninad Kulkani* `AACL20` [[pdf]](https://www.aclweb.org/anthology/2020.knlp-1.1/)
@@ -16,5 +16,19 @@
 * **Estimating the effect of COVID-19 on mental health: Linguistic indicators of depression during a global pandemic** *JT Wolohan* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.12/)
 * **Exploration of Gender Differences in COVID-19 Discourse on Reddit** *Jai Aggarwal, Ella Rabinovich, Suzanne Stevenson* `ACl20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.13/)
 * **Cross-language sentiment analysis of European Twitter messages during the COVID-19 pandemic** *Anna Kruspe, Matthias Häberle, Iona Kuhn, Xiao Xiang Zhu* `ACl20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.14/)
+* **Cross-lingual Transfer Learning for COVID-19 Outbreak Alignment** *Sharon Levy, William Yang Wang* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.15/)
+* **COVID-19 and Arabic Twitter: How can Arab World Governments and Public Health Organizations Learn from Social Media?** *Lama Alsudias, Paul Rayson* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.16/)
+* **NLP-based Feature Extraction for the Detection of COVID-19 Misinformation Videos on YouTube** *Juan Carlos Medina Serrano, Orestis Papakyriakopoulos, Simon Hegelich* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.17/) 
+* **COVID-QA: A Question Answering Dataset for COVID-19** *Timo Möller, Anthony Reina, Raghavan Jayakumar, Malte Pietsch* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.18/)
+* **Mega-COV: A Billion-Scale Dataset of 100+ Languages for COVID-19** *Muhammad Abdul-Mageed, AbdelRahim Elmadany, El Moatez Billah Nagoudi, Dinesh Pabbi, Kunal Verma, Rannie Lin* `EACL20` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.298/)
+* **CovRelex: A COVID-19 Retrieval System with Relation Extraction** *Vu Tran, Van-Hien Tran, Phuong Nguyen, Chau Nguyen, Ken Satoh, Yuji Matsumoto, Minh Nguyen* `EACL20` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-demos.4/)
+* **A Dashboard for Mitigating the COVID-19 Misinfodemic** *Zhengyuan Zhu, Kevin Meng, Josue Caraballo, Israa Jaradat, Xiao Shi, Zeyu Zhang, Farahnaz Akrami, Haojin Liao, Fatma Arslan, Damian Jimenez, Mohanmmed Samiul Saeef, Paras Pathak, Chengkai Li* `EACL20` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-demos.12/)
+* **A COVID-19 news coverage mood map of Europe** *Frankie Robertson, Jarkko Lagus, Kaisla Kajava* `EACL20` [[pdf]](https://www.aclweb.org/anthology/2021.hackashop-1.15/)
+* **ArCorona: Analyzing Arabic Tweets in the Early Days of Coronavirus (COVID-19) Pandemic** *Hamdy Mubarak, Sabit Hassan* `EACL20` [[pdf]](https://www.aclweb.org/anthology/2021.louhi-1.1/)
+* **Understanding Social Support Expressed in a COVID-19 Online Forum** *Anietie Andy, Brian Chu, Ramie Fathy, Barrington Bennett, Daniel Stokes, Sharath Chandra Guntuku* `EACL20` [[pdf]](https://www.aclweb.org/anthology/2021.louhi-1.3/)
+* **Impact of COVID-19 in Natural Language Processing Publications: a Disaggregated Study in Gender, Contribution and Experience** *Christine Basta, Marta R. Costa-jussa* `EACL20` [[pdf]](https://www.aclweb.org/anthology/2021.ltedi-1.1/)
+* **ArCOV19-Rumors: Arabic COVID-19 Twitter Dataset for Misinformation Detection** *Fatima Haouari, Maram Hasanain, Reem Suwaileh, Tamer Elsayed* `EACL20` [[pdf]](https://www.aclweb.org/anthology/2021.wanlp-1.8/)
+* **ArCOV-19: The First Arabic COVID-19 Twitter Dataset with Propagation Networks** *Fatima Haouari, Maram Hasanain, Reem Suwaileh, Tamer Elsayed* `EACL20` [[pdf]](https://www.aclweb.org/anthology/2021.wanlp-1.9/)
+* **Partisanship and Fear are Associated with Resistance to COVID-19 Directives** *Mike Lindow, David DeFranza, Arul Mishra, Himanshu Mishra* `EACL20` [[pdf]](https://www.aclweb.org/anthology/2021.wassa-1.3/)
 
 
