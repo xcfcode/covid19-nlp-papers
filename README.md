@@ -7,6 +7,7 @@ Contributed by [Xiachong Feng](http://xcfeng.net/), [Libo Qin](http://ir.hit.edu
 COVID-19 outbreak has become a global pandemic. NLP researchers are fighting the epidemic in their own way. 
 
 ![https://goodera.com/blog/sustainability/how-companies-can-lead-the-fight-against-the-spread-of-covid-19/](./pic/corona.png)
+*pic from https://goodera.com/blog/sustainability/how-companies-can-lead-the-fight-against-the-spread-of-covid-19/*
 
 ## Arxiv
 * **Genetic Constrained Graph Variational Autoencoder for COVID-19 Drug Discovery** *Tianyue Cheng, Tianchi Fan, Landi Wang* [[pdf]](https://arxiv.org/abs/2104.11674)
