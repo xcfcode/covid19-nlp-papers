@@ -1,0 +1,20 @@
+# 
+
+
+* **COVID-19 Knowledge Graph: Accelerating Information Retrieval and Discovery for Scientific Literature** *Colby Wise, Miguel Romero Calvo, Pariminder Bhatia, Vassilis Ioannidis, George Karypus, George Price, Xiang Song, Ryan Brand, Ninad Kulkani* `AACL20` [[pdf]](https://www.aclweb.org/anthology/2020.knlp-1.1/)
+* **CORD-19: The COVID-19 Open Research Dataset** *Lucy Lu Wang, Kyle Lo, Yoganand Chandrasekhar, Russell Reas, Jiangjiang Yang, Doug Burdick, Darrin Eide, Kathryn Funk, Yannis Katsis, Rodney Michael Kinney, Yunyao Li, Ziyang Liu, William Merrill, Paul Mooney, Dewey A. Murdick, Devvret Rishi, Jerry Sheehan, Zhihong Shen, Brandon Stilson, Alex D. Wade, Kuansan Wang, Nancy Xin Ru Wang, Christopher Wilhelm, Boya Xie, Douglas M. Raymond, Daniel S. Weld, Oren Etzioni, Sebastian Kohlmeier* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.1/)
+* **Rapidly Deploying a Neural Search Engine for the COVID-19 Open Research Dataset** *Edwin Zhang, Nikhil Gupta, Rodrigo Nogueira, Kyunghyun Cho, Jimmy Lin* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.2/)
+* **Document Classification for COVID-19 Literature** *https://www.aclweb.org/anthology/2020.nlpcovid19-acl.3/* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.3/)
+* **Enabling Low-Resource Transfer Learning across COVID-19 Corpora by Combining Event-Extraction and Co-Training** *Alexander Spangher, Nanyun Peng, Jonathan May, Emilio Ferrara* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.4/) 
+* **Self-supervised context-aware COVID-19 document exploration through atlas grounding** *Dusan Grujicic, Gorjan Radevski, Tinne Tuytelaars, Matthew Blaschko* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.5/)
+* **CODA-19: Using a Non-Expert Crowd to Annotate Research Aspects on 10,000+ Abstracts in the COVID-19 Open Research Dataset** *Ting-Hao Kenneth Huang, Chieh-Yang Huang, Chien-Kuang Cornelia Ding, Yen-Chia Hsu, C. Lee Giles* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.6/)
+* **Information Retrieval and Extraction on COVID-19 Clinical Articles Using Graph Community Detection and Bio-BERT Embeddings** *Debasmita Das, Yatin Katyal, Janu Verma, Shashank Dubey, AakashDeep Singh, Kushagra Agarwal, Sourojit Bhaduri, RajeshKumar Ranjan* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.7/)
+* **What Are People Asking About COVID-19? A Question Classification Dataset** *Jerry Wei, Chengyu Huang, Soroush Vosoughi, Jason Wei* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.8/)
+* **Jennifer for COVID-19: An NLP-Powered Chatbot Built for the People and by the People to Combat Misinformation** *Yunyao Li, Tyrone Grandison, Patricia Silveyra, Ali Douraghy, Xinyu Guan, Thomas Kieselbach, Chengkai Li, Haiqi Zhang* `ACl20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.9/)
+* **A Natural Language Processing System for National COVID-19 Surveillance in the US Department of Veterans Affairs** *Alec Chapman, Kelly Peterson, Augie Turano, Tamára Box, Katherine Wallace, Makoto Jones* `ACl20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.10/)
+* **Measuring Emotions in the COVID-19 Real World Worry Dataset** *Bennett Kleinberg, Isabelle van der Vegt, Maximilian Mozes* `ACl20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.11/)
+* **Estimating the effect of COVID-19 on mental health: Linguistic indicators of depression during a global pandemic** *JT Wolohan* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.12/)
+* **Exploration of Gender Differences in COVID-19 Discourse on Reddit** *Jai Aggarwal, Ella Rabinovich, Suzanne Stevenson* `ACl20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.13/)
+* **Cross-language sentiment analysis of European Twitter messages during the COVID-19 pandemic** *Anna Kruspe, Matthias Häberle, Iona Kuhn, Xiao Xiang Zhu* `ACl20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.14/)
+
+
