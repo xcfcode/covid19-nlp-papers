@@ -4,6 +4,10 @@
 
 Contributed by [Xiachong Feng](http://xcfeng.net/), [Libo Qin](http://ir.hit.edu.cn/~lbqin/) 
 
+## NAACL21
+* **COVID-19 named entity recognition for Vietnamese** *Thinh Hung Truong, Mai Hoang Dao and Dat Quoc Nguyen* `NAACL21` [[pdf]](https://arxiv.org/abs/2104.03879)
+* **Extracting a Knowledge Base of Mechanisms from COVID-19 Papers** *Tom Hope, Aida Amini, David Wadden, Madeleine van Zuylen, Sravanthi Parasa, Eric Horvitz, Daniel Weld, Roy Schwartz, Hannaneh Hajishirzi* `NAACL21` [[pdf]](https://arxiv.org/abs/2010.03824)
+
 ## AACL20
 * **COVID-19 Knowledge Graph: Accelerating Information Retrieval and Discovery for Scientific Literature** *Colby Wise, Miguel Romero Calvo, Pariminder Bhatia, Vassilis Ioannidis, George Karypus, George Price, Xiang Song, Ryan Brand, Ninad Kulkani* `AACL20` [[pdf]](https://www.aclweb.org/anthology/2020.knlp-1.1/)
 
@@ -133,6 +137,6 @@ Contributed by [Xiachong Feng](http://xcfeng.net/), [Libo Qin](http://ir.hit.edu
 * **Adapting Open Domain Fact Extraction and Verification to COVID-FACT through In-Domain Language Modeling** *Zhenghao Liu, Chenyan Xiong, Zhuyun Dai, Si Sun, Maosong Sun, Zhiyuan Liu* `Findings of EMNLP20` [[pdf]](https://www.aclweb.org/anthology/2020.findings-emnlp.216/)
 * **Document Classification for COVID-19 Literature** *Bernal Jimenez Gutierrez, Jucheng Zeng, Dongdong Zhang, Ping Zhang, Yu Su* `Findings of EMNLP20` [[pdf]](https://www.aclweb.org/anthology/2020.findings-emnlp.332/)
 
-## CCL
+## CCL20
 * **新型冠状病毒肺炎相关的推特主题与情感研究(Exploring COVID-19-related Twitter Topic Dynamics across Countries)** *Shuailong Liang (梁帅龙), Derek F. Wong (黄辉), Yue Zhang (张岳)* `CCL20` [[pdf]](https://www.aclweb.org/anthology/2020.ccl-1.66/)
 
