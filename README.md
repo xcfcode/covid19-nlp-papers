@@ -30,5 +30,17 @@
 * **ArCOV19-Rumors: Arabic COVID-19 Twitter Dataset for Misinformation Detection** *Fatima Haouari, Maram Hasanain, Reem Suwaileh, Tamer Elsayed* `EACL20` [[pdf]](https://www.aclweb.org/anthology/2021.wanlp-1.8/)
 * **ArCOV-19: The First Arabic COVID-19 Twitter Dataset with Propagation Networks** *Fatima Haouari, Maram Hasanain, Reem Suwaileh, Tamer Elsayed* `EACL20` [[pdf]](https://www.aclweb.org/anthology/2021.wanlp-1.9/)
 * **Partisanship and Fear are Associated with Resistance to COVID-19 Directives** *Mike Lindow, David DeFranza, Arul Mishra, Himanshu Mishra* `EACL20` [[pdf]](https://www.aclweb.org/anthology/2021.wassa-1.3/)
+* **Inexpensive Domain Adaptation of Pretrained Language Models: Case Studies on Biomedical NER and Covid-19 QA** *Nina Poerner, Ulli Waltinger, Hinrich Schütze* `Findings of EMNLP20` [[pdf]](https://www.aclweb.org/anthology/2020.findings-emnlp.134/)
+* **Adapting Open Domain Fact Extraction and Verification to COVID-FACT through In-Domain Language Modeling** *Zhenghao Liu, Chenyan Xiong, Zhuyun Dai, Si Sun, Maosong Sun, Zhiyuan Liu* `Findings of EMNLP20` [[pdf]](https://www.aclweb.org/anthology/2020.findings-emnlp.216/)
+* **Document Classification for COVID-19 Literature** *Bernal Jimenez Gutierrez, Jucheng Zeng, Dongdong Zhang, Ping Zhang, Yu Su* `Findings of EMNLP20` [[pdf]](https://www.aclweb.org/anthology/2020.findings-emnlp.332/)
+* **InfoForager: Leveraging Semantic Search with AMR for COVID-19 Research** *Claire Bonial, Stephanie M. Lukin, David Doughty, Steven Hill, Clare Voss* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.dmr-1.7/)
+* **PublishInCovid19 at the FinSBD-2 Task: Sentence and List Extraction in Noisy PDF Text Using a Hybrid Deep Learning and Rule-Based Approach** *Janvijay Singh* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.finnlp-1.9/)
+* **Two Stage Transformer Model for COVID-19 Fake News Detection and Fact Checking** *Rutvik Vijjali, Prathyush Potluri, Siddharth Kumar, Sundeep Teki* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.nlp4if-1.1/)
+* **Social Media Unrest Prediction during the COVID-19 Pandemic: Neural Implicit Motive Pattern Recognition as Psychometric Signs of Severe Crises** *Dirk Johannßen, Chris Biemann* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.peoples-1.8/)
+* **Topic and Emotion Development among Dutch COVID-19 Twitter Communities in the early Pandemic** *Boris Marinov, Jennifer Spenader, Tommaso Caselli* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.peoples-1.9/)
+* **Sentiments in Russian Medical Professional Discourse during the Covid-19 Pandemic** *Irina Ovchinnikova, Liana Ermakova, Diana Nurbakova* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.peoples-1.10/)
+* **Multilingual Emoticon Prediction of Tweets about COVID-19** *Stefanos Stoikos, Mike Izbicki* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.peoples-1.11/)
+* **Covid or not Covid? Topic Shift in Information Cascades on Twitter** *Liana Ermakova, Diana Nurbakova, Irina Ovchinnikova* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.rdsm-1.3/)
+* **COVID-19 Twitter Monitor: Aggregating and Visualizing COVID-19 Related Trends in Social Media** *Joseph Cornelius, Tilia Ellendorff, Lenz Furrer, Fabio Rinaldi* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.smm4h-1.1/)
 
 
