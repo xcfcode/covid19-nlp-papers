@@ -133,3 +133,6 @@ Contributed by [Xiachong Feng](http://xcfeng.net/), [Libo Qin](http://ir.hit.edu
 * **Adapting Open Domain Fact Extraction and Verification to COVID-FACT through In-Domain Language Modeling** *Zhenghao Liu, Chenyan Xiong, Zhuyun Dai, Si Sun, Maosong Sun, Zhiyuan Liu* `Findings of EMNLP20` [[pdf]](https://www.aclweb.org/anthology/2020.findings-emnlp.216/)
 * **Document Classification for COVID-19 Literature** *Bernal Jimenez Gutierrez, Jucheng Zeng, Dongdong Zhang, Ping Zhang, Yu Su* `Findings of EMNLP20` [[pdf]](https://www.aclweb.org/anthology/2020.findings-emnlp.332/)
 
+## CCL
+* **新型冠状病毒肺炎相关的推特主题与情感研究(Exploring COVID-19-related Twitter Topic Dynamics across Countries)** *Shuailong Liang (梁帅龙), Derek F. Wong (黄辉), Yue Zhang (张岳)* `CCL20` [[pdf]](https://www.aclweb.org/anthology/2020.ccl-1.66/)
+
