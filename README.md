@@ -1,5 +1,8 @@
 # COVID-19 Related NLP Papers
 
+![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+
+Contributed by [Xiachong Feng](http://xcfeng.net/), [Libo Qin](http://ir.hit.edu.cn/~lbqin/) 
 
 * **COVID-19 Knowledge Graph: Accelerating Information Retrieval and Discovery for Scientific Literature** *Colby Wise, Miguel Romero Calvo, Pariminder Bhatia, Vassilis Ioannidis, George Karypus, George Price, Xiang Song, Ryan Brand, Ninad Kulkani* `AACL20` [[pdf]](https://www.aclweb.org/anthology/2020.knlp-1.1/)
 * **CORD-19: The COVID-19 Open Research Dataset** *Lucy Lu Wang, Kyle Lo, Yoganand Chandrasekhar, Russell Reas, Jiangjiang Yang, Doug Burdick, Darrin Eide, Kathryn Funk, Yannis Katsis, Rodney Michael Kinney, Yunyao Li, Ziyang Liu, William Merrill, Paul Mooney, Dewey A. Murdick, Devvret Rishi, Jerry Sheehan, Zhihong Shen, Brandon Stilson, Alex D. Wade, Kuansan Wang, Nancy Xin Ru Wang, Christopher Wilhelm, Boya Xie, Douglas M. Raymond, Daniel S. Weld, Oren Etzioni, Sebastian Kohlmeier* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.1/)
