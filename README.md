@@ -12,8 +12,10 @@ COVID-19 outbreak has become a global pandemic. NLP researchers are fighting the
 ## Table of Contents
 
 - [Resource](#Resource)
-- [Arxiv](#Arxiv)
+- [Papers](#Papers)
+- [AAAI21](#AAAI21)
 - [NAACL21](#NAACL21)
+- [KDD20](#KDD20)
 - [AACL20](#AACL20)
 - [ACL20](#ACL20)
 - [EACL20](#EACL20)
@@ -27,7 +29,12 @@ COVID-19 outbreak has become a global pandemic. NLP researchers are fighting the
 * COVID-19 Open Research Dataset Challenge (CORD-19) [Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/)
 * API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted data sources. [COVID-QA](https://github.com/deepset-ai/COVID-QA)
 
-## Arxiv
+## Papers
+* **An Investigation of Containment Measures Against the COVID-19 Pandemic in Mainland China** *Ji Liu, Xiakai Wang, Haoyi Xiong, Jizhou Huang, Siyu Huang, Haozhe An, Dejing Dou, Haifeng Wang* `Proceedings of the 2020 IEEE International Conference on Big Data` [[pdf]](https://arxiv.org/abs/2007.08254)
+* **Analysis of Collective Response Reveals that COVID-19-Related Activities Start From the End of 2019 in Mainland China** *Ji Liu, Tongtong Huang, Haoyi Xiong, Jizhou Huang, Jingbo Zhou, Haiyan Jiang, Guanhua Yang, Haifeng Wang, Dejing Dou* [[pdf]](https://www.medrxiv.org/content/10.1101/2020.10.14.20202531v1)
+* **Understanding the Collective Responses of Populations to the COVID-19 Pandemic in Mainland China** *Haoyi Xiong, Ji Liu, Jizhou Huang, Siyu Huang, Haozhe An, Qi Kang, Ying Li, Dejing Dou, Haifeng Wang* [[pdf]](https://www.medrxiv.org/content/10.1101/2020.04.20.20068676v3)
+* **Quantifying the Economic Impact of COVID-19 in Mainland China Using Human Mobility Data** *Jizhou Huang, Haifeng Wang, Haoyi Xiong, Miao Fan, An Zhuo, Ying Li, Dejing Dou* [[pdf]](https://arxiv.org/abs/2005.03010)
+* **LitCovid: an open database of COVID-19 literature** *Qingyu Chen, Alexis Allot, Zhiyong Lu* `Nucleic Acids Research 2020` [[pdf]](https://academic.oup.com/nar/article/49/D1/D1534/5964074)
 * **Artificial Intelligence (AI) in Action: Addressing the COVID-19 Pandemic with Natural Language Processing (NLP)** *Qingyu Chen, Robert Leaman, Alexis Allot, Ling Luo, Chih-Hsuan Wei, Shankai Yan, Zhiyong Lu* [[pdf]](https://arxiv.org/abs/2010.16413)
 * **Genetic Constrained Graph Variational Autoencoder for COVID-19 Drug Discovery** *Tianyue Cheng, Tianchi Fan, Landi Wang* [[pdf]](https://arxiv.org/abs/2104.11674)
 * **COVID-19 and Big Data: Multi-faceted Analysis for Spatio-temporal Understanding of the Pandemic with Social Media Conversations** *Shayan Fazeli, Davina Zamanzadeh, Anaelia Ovalle, Thu Nguyen, Gilbert Gee, Majid Sarrafzadeh* [[pdf]](https://arxiv.org/abs/2104.10807)
@@ -36,10 +43,16 @@ COVID-19 outbreak has become a global pandemic. NLP researchers are fighting the
 * **Measuring Shifts in Attitudes Towards COVID-19 Measures in Belgium Using Multilingual BERT** *Kristen Scott, Pieter Delobelle, Bettina Berendt* [[pdf]](https://arxiv.org/abs/2104.09947)
 * *adding......*
 
+## AAAI21
+* **C-Watcher: A Framework for Early Detection of High-Risk Neighborhoods Ahead of COVID-19 Outbreak** *Congxi Xiao, Jingbo Zhou, Jizhou Huang, An Zhuo, Ji Liu, Haoyi Xiong, Dejing Dou* [[pdf]](https://arxiv.org/abs/2012.12169)
+
 ## NAACL21
 * **COVID-19 named entity recognition for Vietnamese** *Thinh Hung Truong, Mai Hoang Dao and Dat Quoc Nguyen* `NAACL21` [[pdf]](https://arxiv.org/abs/2104.03879)
 * **Extracting a Knowledge Base of Mechanisms from COVID-19 Papers** *Tom Hope, Aida Amini, David Wadden, Madeleine van Zuylen, Sravanthi Parasa, Eric Horvitz, Daniel Weld, Roy Schwartz, Hannaneh Hajishirzi* `NAACL21` [[pdf]](https://arxiv.org/abs/2010.03824)
 * **Transformers to Fight the COVID-19 Infodemic** *Lasitha Uyangodage, Tharindu Ranasinghe, Hansi Hettiarachchi* `NAACL21` [[pdf]](https://arxiv.org/abs/2104.12201)
+
+## KDD20
+* **Understanding the Impact of the COVID-19 Pandemic on Transportation-related Behaviors with Human Mobility Data** *Jizhou Huang, Haifeng Wang, Miao Fan, An Zhuo, Yibo Sun, Ying Li* `KDD20` [[pdf]](https://dl.acm.org/doi/10.1145/3394486.3412856)
 
 ## AACL20
 * **COVID-19 Knowledge Graph: Accelerating Information Retrieval and Discovery for Scientific Literature** *Colby Wise, Miguel Romero Calvo, Pariminder Bhatia, Vassilis Ioannidis, George Karypus, George Price, Xiang Song, Ryan Brand, Ninad Kulkani* `AACL20` [[pdf]](https://www.aclweb.org/anthology/2020.knlp-1.1/)
