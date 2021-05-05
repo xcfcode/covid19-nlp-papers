@@ -41,6 +41,8 @@ COVID-19 outbreak has become a global pandemic. NLP researchers are fighting the
 * **COVID-19 sentiment analysis via deep learning during the rise of novel cases** *Rohitash Chandra, Aswin Krishna* [[pdf]](https://arxiv.org/abs/2104.10662)
 * **Analyzing COVID-19 Tweets with Transformer-based Language Models** *Philip Feldman, Sim Tiwari, Charissa S. L. Cheah, James R. Foulds, Shimei Pan* [[pdf]](https://arxiv.org/abs/2104.10259)
 * **Measuring Shifts in Attitudes Towards COVID-19 Measures in Belgium Using Multilingual BERT** *Kristen Scott, Pieter Delobelle, Bettina Berendt* [[pdf]](https://arxiv.org/abs/2104.09947)
+* **Event-driven timeseries analysis and the comparison of public reactions on COVID-19** *Md. Khayrul Bashar* [[pdf]](https://arxiv.org/abs/2104.14777) 
+* **Textual Analysis of Communications in COVID-19 Infected Community on Social Media** *Yuhan Liu, Yuhan Gao, Zhifan Nan, Long Chen* [[pdf]](https://arxiv.org/abs/2105.01189)
 * *adding......*
 
 ## AAAI21
