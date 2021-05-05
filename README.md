@@ -25,9 +25,9 @@ COVID-19 outbreak has become a global pandemic. NLP researchers are fighting the
 - [CCL20](#CCL20)
 
 ## Resource
-* Tweets related to the coronavirus outbreak have been collected from Twitter's search API nightly since January 17th, 2020. As of 01/17/2021, there are now over 300 000 000 tweets [covid19_unique_tweets](https://github.com/delvinso/covid19_unique_tweets)
-* COVID-19 Open Research Dataset Challenge (CORD-19) [Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/)
-* API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted data sources. [COVID-QA](https://github.com/deepset-ai/COVID-QA)
+* Tweets related to the coronavirus outbreak have been collected from Twitter's search API nightly since January 17th, 2020. As of 01/17/2021, there are now over 300 000 000 tweets [[covid19_unique_tweets]](https://github.com/delvinso/covid19_unique_tweets)
+* COVID-19 Open Research Dataset Challenge (CORD-19) [[Kaggle]](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/)
+* API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted data sources. [[COVID-QA]](https://github.com/deepset-ai/COVID-QA)
 
 ## Papers
 * **An Investigation of Containment Measures Against the COVID-19 Pandemic in Mainland China** *Ji Liu, Xiakai Wang, Haoyi Xiong, Jizhou Huang, Siyu Huang, Haozhe An, Dejing Dou, Haifeng Wang* `Proceedings of the 2020 IEEE International Conference on Big Data` [[pdf]](https://arxiv.org/abs/2007.08254)
