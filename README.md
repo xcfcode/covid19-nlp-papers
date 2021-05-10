@@ -30,6 +30,7 @@ COVID-19 outbreak has become a global pandemic. NLP researchers are fighting the
 * API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted data sources. [[COVID-QA]](https://github.com/deepset-ai/COVID-QA)
 
 ## Papers
+* **Looking for COVID-19 misinformation in multilingual social media texts** *Raj Ratn Pranesh, Mehrdad Farokhnejad, Ambesh Shekhar, Genoveva Vargas-Solar* [[pdf]](https://arxiv.org/abs/2105.03313)
 * **ExcavatorCovid: Extracting Events and Relations from Text Corpora for Temporal and Causal Analysis for COVID-19** *Bonan Min, Benjamin Rozonoyer, Haoling Qiu, Alexander Zamanian, Jessica MacBride* [[pdf]](https://arxiv.org/abs/2105.01819)
 * **An Investigation of Containment Measures Against the COVID-19 Pandemic in Mainland China** *Ji Liu, Xiakai Wang, Haoyi Xiong, Jizhou Huang, Siyu Huang, Haozhe An, Dejing Dou, Haifeng Wang* `Proceedings of the 2020 IEEE International Conference on Big Data` [[pdf]](https://arxiv.org/abs/2007.08254)
 * **Analysis of Collective Response Reveals that COVID-19-Related Activities Start From the End of 2019 in Mainland China** *Ji Liu, Tongtong Huang, Haoyi Xiong, Jizhou Huang, Jingbo Zhou, Haiyan Jiang, Guanhua Yang, Haifeng Wang, Dejing Dou* [[pdf]](https://www.medrxiv.org/content/10.1101/2020.10.14.20202531v1)
