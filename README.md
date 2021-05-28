@@ -50,6 +50,9 @@ COVID-19 outbreak has become a global pandemic. NLP researchers are fighting the
 * **Textual Analysis of Communications in COVID-19 Infected Community on Social Media** *Yuhan Liu, Yuhan Gao, Zhifan Nan, Long Chen* [[pdf]](https://arxiv.org/abs/2105.01189)
 * *adding......*
 
+## ACL21
+* **Investigating label suggestions for opinion mining in German Covid-19 social media** *Tilman Beck, Ji-Ung Lee, Christina Viehmann, Marcus Maurer, Oliver Quiring, Iryna Gurevych* `ACL21` [[pdf]](https://arxiv.org/abs/2105.12980) [[code]](https://github.com/UKPLab/acl2021-label-suggestions-german-covid19)
+
 ## AAAI21
 * **C-Watcher: A Framework for Early Detection of High-Risk Neighborhoods Ahead of COVID-19 Outbreak** *Congxi Xiao, Jingbo Zhou, Jizhou Huang, An Zhuo, Ji Liu, Haoyi Xiong, Dejing Dou* [[pdf]](https://arxiv.org/abs/2012.12169)
 
