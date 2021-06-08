@@ -51,6 +51,7 @@ COVID-19 outbreak has become a global pandemic. NLP researchers are fighting the
 * *adding......*
 
 ## ACL21
+* **COVID-Fact: Fact Extraction and Verification of Real-World Claims on COVID-19 Pandemic** *Arkadiy Saakyan, Tuhin Chakrabarty, Smaranda Muresan* `ACL 2021` [[pdf]](https://arxiv.org/abs/2106.03794)
 * **Investigating label suggestions for opinion mining in German Covid-19 social media** *Tilman Beck, Ji-Ung Lee, Christina Viehmann, Marcus Maurer, Oliver Quiring, Iryna Gurevych* `ACL21` [[pdf]](https://arxiv.org/abs/2105.12980) [[code]](https://github.com/UKPLab/acl2021-label-suggestions-german-covid19)
 
 ## AAAI21
