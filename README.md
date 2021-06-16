@@ -30,6 +30,7 @@ COVID-19 outbreak has become a global pandemic. NLP researchers are fighting the
 * API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted data sources. [[COVID-QA]](https://github.com/deepset-ai/COVID-QA)
 
 ## Papers
+* **Interpretable Self-supervised Multi-task Learning for COVID-19 Information Retrieval and Extraction** [[pdf]](https://arxiv.org/abs/2106.08252)
 * **Insight from NLP Analysis: COVID-19 Vaccines Sentiments on Social Media** *Tao Na, Wei Cheng, Dongming Li, Wanyu Lu, Hongjiang Li* [[pdf]](https://arxiv.org/abs/2106.04081)
 * **Impact of detecting clinical trial elements in exploration of COVID-19 literature** *Simon Šuster, Karin Verspoor, Timothy Baldwin, Jey Han Lau, Antonio Jimeno Yepes, David Martinez, Yulia Otmakhova* [[pdf]](https://arxiv.org/abs/2105.12261)
 * **Have you tried Neural Topic Models? Comparative Analysis of Neural and Non-Neural Topic Models with Application to COVID-19 Twitter Data** *Andrew Bennett, Dipendra Misra, Nga Than* [[pdf]](https://arxiv.org/abs/2105.10165)
