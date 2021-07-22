@@ -30,6 +30,7 @@ COVID-19 outbreak has become a global pandemic. NLP researchers are fighting the
 * API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted data sources. [[COVID-QA]](https://github.com/deepset-ai/COVID-QA)
 
 ## Papers
+* **Checkovid: A COVID-19 misinformation detection system on Twitter using network and content mining perspectives** *Sajad Dadgar, Mehdi Ghatee* [[pdf]](https://arxiv.org/abs/2107.09768)
 * **Topic Modeling and Progression of American Digital News Media During the Onset of the COVID-19 Pandemic** *Xiangpeng Wan, Michael C. Lucic, Hakim Ghazzai, Yehia Massoud* [[pdf]](https://arxiv.org/abs/2106.09572)
 * **Interpretable Self-supervised Multi-task Learning for COVID-19 Information Retrieval and Extraction** [[pdf]](https://arxiv.org/abs/2106.08252)
 * **Insight from NLP Analysis: COVID-19 Vaccines Sentiments on Social Media** *Tao Na, Wei Cheng, Dongming Li, Wanyu Lu, Hongjiang Li* [[pdf]](https://arxiv.org/abs/2106.04081)
