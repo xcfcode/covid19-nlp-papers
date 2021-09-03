@@ -30,6 +30,11 @@ COVID-19 outbreak has become a global pandemic. NLP researchers are fighting the
 * API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted data sources. [[COVID-QA]](https://github.com/deepset-ai/COVID-QA)
 
 ## Papers
+* **Discourse Analysis of Covid-19 in Persian Twitter Social Networks Using Graph Mining and Natural Language Processing** *Omid Shokrollahi, Niloofar Hashemi, Mohammad Dehghani* [[pdf]](https://arxiv.org/abs/2109.00298)
+* **Detecting Propaganda on the Sentence Level during the COVID-19 Pandemic** *Rong-Ching Chang, Chu-Hsing Lin* [[pdf]](https://arxiv.org/abs/2108.12269) 
+* **How COVID-19 has Impacted American Attitudes Toward China: A Study on Twitter** *Gavin Cook, Junming Huang, Yu Xie* [[pdf]](https://arxiv.org/abs/2108.11040)
+* **Sentiment Analysis of the COVID-related r/Depression Posts** *Zihan Chen, Marina Sokolova* [[pdf]](https://arxiv.org/abs/2108.06215)
+* **Medical-VLBERT: Medical Visual Language BERT for COVID-19 CT Report Generation With Alternate Learning** `Guangyi Liu, Yinghong Liao, Fuyu Wang, Bin Zhang, Lu Zhang, Xiaodan Liang, Xiang Wan, Shaolin Li, Zhen Li, Shuixing Zhang, Shuguang Cui` [[pdf]](https://arxiv.org/abs/2108.05067)
 * **Checkovid: A COVID-19 misinformation detection system on Twitter using network and content mining perspectives** *Sajad Dadgar, Mehdi Ghatee* [[pdf]](https://arxiv.org/abs/2107.09768)
 * **Topic Modeling and Progression of American Digital News Media During the Onset of the COVID-19 Pandemic** *Xiangpeng Wan, Michael C. Lucic, Hakim Ghazzai, Yehia Massoud* [[pdf]](https://arxiv.org/abs/2106.09572)
 * **Interpretable Self-supervised Multi-task Learning for COVID-19 Information Retrieval and Extraction** [[pdf]](https://arxiv.org/abs/2106.08252)
