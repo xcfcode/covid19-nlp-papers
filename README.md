@@ -30,6 +30,7 @@ COVID-19 outbreak has become a global pandemic. NLP researchers are fighting the
 * API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted data sources. [[COVID-QA]](https://github.com/deepset-ai/COVID-QA)
 
 ## Papers
+* **COVID-19 India Dataset: Parsing Detailed COVID-19 Data in Daily Health Bulletins from States in India** [[pdf]](https://arxiv.org/abs/2110.02311)
 * **AraCOVID19-SSD: Arabic COVID-19 Sentiment and Sarcasm Detection Dataset** [[pdf]](https://arxiv.org/abs/2110.01948)
 * **Analyzing the Impact of COVID-19 on Economy from the Perspective of Users Reviews** [[pdf]](https://arxiv.org/abs/2110.02198)
 * **Supervised Contrastive Learning for Multimodal Unreliable News Detection in COVID-19 Pandemic** *Wenjia Zhang, Lin Gui, Yulan He* [[pdf]](https://arxiv.org/abs/2109.01850)
