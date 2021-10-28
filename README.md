@@ -30,6 +30,7 @@ COVID-19 outbreak has become a global pandemic. NLP researchers are fighting the
 * API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted data sources. [[COVID-QA]](https://github.com/deepset-ai/COVID-QA)
 
 ## Papers
+* **Diachronic Text Mining Investigation of Therapeutic Candidates for COVID-19** *James Powell, Kari Sentz* [[pdf]](https://arxiv.org/abs/2110.13971)
 * **Prioritization of COVID-19-related literature via unsupervised keyphrase extraction and document representation learning** *Blaž Škrlj, Marko Jukič, Nika Eržen, Senja Pollak, Nada Lavrač* [[pdf]](https://arxiv.org/abs/2110.08874)
 * **COVIDRead: A Large-scale Question Answering Dataset on COVID-19** *Tanik Saikh, Sovan Kumar Sahoo, Asif Ekbal, Pushpak Bhattacharyya* [[pdf]](https://arxiv.org/abs/2110.09321)
 * **Open-Domain Question-Answering for COVID-19 and Other Emergent Domains** *Sharon Levy, Kevin Mo, Wenhan Xiong, William Yang Wang* [[pdf]](https://arxiv.org/abs/2110.06962)
